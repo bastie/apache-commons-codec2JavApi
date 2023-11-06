@@ -1,3 +1,9 @@
+#Swift
+.build
+.swiftpm
+Package.resolved
+
+
 *~
 *.swp
 .idea/
